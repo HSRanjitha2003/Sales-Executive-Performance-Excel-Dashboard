@@ -60,4 +60,6 @@ The dashboard is designed to help sales managers and business stakeholders monit
 * Integrate with Power BI or other visualization tools
 * Enable data entry through form controls
 
+<img width="1306" height="633" alt="Screenshot 2025-07-29 223025" src="https://github.com/user-attachments/assets/16fca1db-171a-41bd-9a12-d94040c50433" />
+
 
